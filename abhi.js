@@ -125,3 +125,8 @@ function validateForm() {
 
     
 };
+
+
+function sampleFunction() {
+    location.reload();
+  }
